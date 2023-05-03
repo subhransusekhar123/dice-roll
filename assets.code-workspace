@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../DiceRoll/assets"
+		},
+		{
+			"name": "dicehaptic",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
